@@ -229,4 +229,4 @@ Sibelius is available as a full free version, ensuring all features and updates 
 Ready to create your masterpiece? **Download Sibelius now and start composing your music today!**
 
 ---
-**Last updated:** 2026-10-05 23:36:50 UTC
+**Last updated:** 2026-10-06 04:26:20 UTC
